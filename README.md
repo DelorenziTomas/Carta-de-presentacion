@@ -2,9 +2,9 @@
 
 ### Versión en Español 🇦🇷
 
-Soy un estudiante avanzado de la Licenciatura en Física de la UNLPam (Argentina) con una sólida formación cuantitativa. Mi entrenamiento en física me ha proporcionado un enfoque riguroso para modelar sistemas complejos y resolver problemas desde una perspectiva analítica.
+Soy un estudiante avanzado de la Licenciatura en Física en la UNLPam y, para ser honesto, lo que más me mueve es la curiosidad. Me encanta meterme de lleno a entender cómo funcionan las cosas, da igual si es una molécula en una simulación o los patrones del tráfico en una esquina —sobre todo porque optimizar problemas como ese es una forma de aportar nuestro granito de arena contra el cambio climático.
 
-Actualmente, aplico esta base para especializarme en el uso de herramientas computacionales como Python, Machine Learning y Análisis de Datos. Mi enfoque consiste en gestionar proyectos de datos de principio a fin: transformo datos brutos, ya sea de simulaciones o de videos del mundo real, en modelos predictivos e insights accionables. He aplicado estas habilidades en dominios que van desde la investigación fundamental en dinámica molecular y física de materiales granulares, hasta el desarrollo de sistemas inteligentes para optimizar problemas cívicos como el control del tráfico.
+Más que nada, me considero una persona persistente. Disfruto mucho el proceso de agarrar un problema que parece complicado, ya sea programando, investigando o aprendiendo algo desde cero, y no lo suelto hasta que encuentro una solución. También creo que la ciencia se construye charlando y compartiendo ideas, así que siempre estoy abierto a colaborar y escuchar nuevos puntos de vista.
 
 ---
 
@@ -51,9 +51,9 @@ Actualmente, aplico esta base para especializarme en el uso de herramientas comp
 
 ### English Version 🇬🇧
 
-I am an advanced undergraduate Physics student from UNLPam (Argentina) with a strong quantitative background. My training in physics has provided me with a rigorous approach to modeling complex systems and solving problems from an analytical perspective.
+I'm an advanced undergraduate Physics student at UNLPam, and to be honest, what drives me most is curiosity. I love diving deep to understand how things work, whether it's a molecule in a simulation or the traffic patterns on a street corner—especially since optimizing problems like that is one way to do our small part against climate change.
 
-I currently apply this foundation to specialize in computational tools like Python, Machine Learning, and Data Analysis. My approach involves managing end-to-end data projects: I transform raw data, whether from simulations or real-world video streams, into predictive models and actionable insights. I have applied these skills in domains ranging from fundamental research in molecular dynamics and granular materials physics, to developing intelligent systems for optimizing civic problems like traffic control.
+More than anything, I see myself as persistent. I genuinely enjoy the process of tackling a tough problem—whether it's through coding, research, or learning something from scratch—and I don't let go until I've found a solution. I also believe science is built on talking and sharing ideas, so I'm always open to collaborating and hearing new perspectives.
 
 ---
 
