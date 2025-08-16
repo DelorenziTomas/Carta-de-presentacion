@@ -4,7 +4,7 @@
 
 Soy un estudiante avanzado de la Licenciatura en Física de la UNLPam (Argentina) con una sólida formación cuantitativa. Mi entrenamiento en física me ha proporcionado un enfoque riguroso para modelar sistemas complejos y resolver problemas desde una perspectiva analítica.
 
-Actualmente, aplico esta base para especializarme en el uso de herramientas computacionales como Python, Machine Learning y Análisis de Datos. Mi enfoque consiste en gestionar proyectos de datos de principio a fin: transformo datos brutos, ya sea de simulaciones o de videos del mundo real, en modelos predictivos e insights accionables. He aplicado estas habilidades en dominios que van desde la investigación fundamental en dinámica molecular y física de materiales granulares , hasta el desarrollo de sistemas inteligentes para optimizar problemas cívicos como el control del tráfico.
+Actualmente, aplico esta base para especializarme en el uso de herramientas computacionales como Python, Machine Learning y Análisis de Datos. Mi enfoque consiste en gestionar proyectos de datos de principio a fin: transformo datos brutos, ya sea de simulaciones o de videos del mundo real, en modelos predictivos e insights accionables. He aplicado estas habilidades en dominios que van desde la investigación fundamental en dinámica molecular y física de materiales granulares, hasta el desarrollo de sistemas inteligentes para optimizar problemas cívicos como el control del tráfico.
 
 ---
 
@@ -53,7 +53,7 @@ Actualmente, aplico esta base para especializarme en el uso de herramientas comp
 
 I am an advanced undergraduate Physics student from UNLPam (Argentina) with a strong quantitative background. My training in physics has provided me with a rigorous approach to modeling complex systems and solving problems from an analytical perspective.
 
-I currently apply this foundation to specialize in computational tools like Python, Machine Learning, and Data Analysis. My approach involves managing end-to-end data projects: I transform raw data, whether from simulations or real-world video streams, into predictive models and actionable insights. I have applied these skills in domains ranging from fundamental research in molecular dynamics and granular materials physics , to developing intelligent systems for optimizing civic problems like traffic control.
+I currently apply this foundation to specialize in computational tools like Python, Machine Learning, and Data Analysis. My approach involves managing end-to-end data projects: I transform raw data, whether from simulations or real-world video streams, into predictive models and actionable insights. I have applied these skills in domains ranging from fundamental research in molecular dynamics and granular materials physics, to developing intelligent systems for optimizing civic problems like traffic control.
 
 ---
 
