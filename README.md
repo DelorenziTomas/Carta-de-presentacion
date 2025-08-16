@@ -27,7 +27,7 @@ Soy un estudiante avanzado de la Licenciatura en Física de la UNLPam (Argentina
 ### 📫 ¿Hablamos?
 
 -   **LinkedIn:** [linkedin.com/in/tomas-delorenzi](https://www.linkedin.com/in/tomas-delorenzi)
--   **Email:** delorenzi.tomas@exactas.unlpam.edu.ar
+-   **Email:** tomii.delorenzi@gmail.com
 
 ---
 ---
